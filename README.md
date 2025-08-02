@@ -2,6 +2,8 @@
 
 <img width="1314" height="578" alt="Image" src="https://github.com/user-attachments/assets/aca684cc-6e30-46ae-891b-5f4443947f40" />
 
+> **Nota:** A base de dados utilizada neste relatório é **fictícia** e foi elaborada exclusivamente para fins de análise e demonstração. As informações apresentadas não refletem dados reais de operação ou desempenho do Xbox Game Pass.
+
 ## Sobre o Surgimento do Dashboard
 
 O dashboard apresentado tem como finalidade responder às seguintes perguntas de negócios:
