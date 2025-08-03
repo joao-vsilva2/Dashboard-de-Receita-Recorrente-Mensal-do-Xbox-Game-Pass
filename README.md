@@ -1,4 +1,4 @@
-# Dashboard de Receita Recorrente Mensal do Xbox Game Pass
+# Receita Recorrente Mensal do Xbox Game Pass
 
 <img width="1314" height="578" alt="Image" src="https://github.com/user-attachments/assets/aca684cc-6e30-46ae-891b-5f4443947f40" />
 
